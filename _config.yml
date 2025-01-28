@@ -1,0 +1,8 @@
+remote_theme: pages-themes/midnight@v0.2.0
+plugins:
+- jekyll-remote-theme
+
+title: [The Github Page of Jean Parra]
+description: [Un poco de mis Proyectos]
+
+show_downloads: [false]
